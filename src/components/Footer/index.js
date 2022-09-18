@@ -13,7 +13,7 @@ const Footer = () => {
             <a target="_blank" rel="noopener noreferrer" href="mailto:zlepeng.ucf@gmail.com">
                 <i class="fas fa-envelope"></i>
             </a>
-            <a target="_blank" rel="noopener noreferrer" href="/">
+            <a target="_blank" rel="noopener noreferrer" href="/assets/Lepeng_Zhang_Resume.pdf">
                 <i class="fas fa-file-pdf"></i>
             </a>
             <a target="_blank" rel="noopener noreferrer" href="tel:000-00-0000">
