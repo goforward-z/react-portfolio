@@ -1,0 +1,36 @@
+#portfolio {
+    flex-grow: 1;
+}
+
+#portfolio h3 {
+    font-size: 29px;
+    font-family: 'Volkhov', serif;
+    color: #56738C;
+    padding-left: 17px!important;
+}
+
+#portfolio a:hover {
+    color: #F2D0A7;
+    text-transform: uppercase;
+    background-color: #2182BF;
+}
+
+#portfolio .card {
+    background-color: #F2EBEC;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 0 0 30px -5px hsl(0deg 0% 21% / 45%);
+}
+
+small {
+    font-style: italic;
+}
+
+.card-title,
+.card-text {
+    padding-left: 1.25rem;
+}
+
+.gitLinks {
+    bottom: 0;
+}
