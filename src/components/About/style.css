@@ -1,0 +1,39 @@
+.about {
+    flex-grow: 1;
+}
+
+h1 {
+    font-size: 70px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+.content {
+    display: grid;
+    font-size: 24px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.content div {
+    margin-bottom: 25px;
+}
+
+.content strong {
+    line-height: 25px;
+    padding-bottom: 15px;
+    display: block;
+}
+
+.content li {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+@media (min-width: 800px) {
+    .content {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
