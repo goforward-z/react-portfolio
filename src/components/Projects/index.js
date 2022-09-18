@@ -113,7 +113,7 @@ const Projects = () => {
                 <div className="col-xs-12 col-sm-12 col-lg-4 mb-4">
                     <div className="card text-center h-100">
                         <div className="imageBox">
-                            <img src={`${process.env.PUBLIC_URL}/assets/images/weather.png`} className="card-img-top border-bottom"
+                            <img src={`${process.env.PUBLIC_URL}/assets/images/weather.jpg`} className="card-img-top border-bottom"
                                 alt="Screenshot of Weather Dashboard" />
                         </div>
                         <div className="card-body mb-5 pl-0">
